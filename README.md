@@ -1,0 +1,2 @@
+# sample
+small c function
