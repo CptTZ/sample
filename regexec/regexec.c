@@ -7,7 +7,7 @@
 int main(){
 
 	char bematch[1024] = {0};
-	char *pattern = "^aaa.bbb.|.aaa.bbb.|.aaa.bbb$|^aaa.bbb$";
+	char *pattern = "^aaa\\.bbb\\.|\\.aaa\\.bbb\\.|\\.aaa\\.bbb$|^aaa\\.bbb$";
 	char errbuf[1024];
 	char match[100];
 	regex_t reg;
