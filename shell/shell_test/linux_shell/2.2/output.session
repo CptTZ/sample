@@ -1,0 +1,231 @@
+脚本启动于 2017年02月16日 星期四 13时47分06秒
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ haha
+未找到 'haha' 命令，您要输入的是否是：
+ 命令 'hacha' 来自于包 'hevea' (main)
+ 命令 'aha' 来自于包 'aha' (universe)
+haha：未找到命令
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ 
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ 
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ vi output.session 
+[2;1H▽[6n[1;1H  [1;1H[m[m[0m[H[2J[30;1H"output.session" 0L, 0C[1;1H[33m  1 [0m
+[1m[34m~                                                 [3;1H~                                                 [4;1H~                                                 [5;1H~                                                 [6;1H~                                                 [7;1H~                                                 [8;1H~                                                 [9;1H~                                                 [10;1H~                                                 [11;1H~                                                 [12;1H~                                                 [13;1H~                                                 [14;1H~                                                 [15;1H~                                                 [16;1H~                                                 [17;1H~                                                 [18;1H~                                                 [19;1H~                                                 [20;1H~                                                 [21;1H~                                                 [22;1H~                                                 [23;1H~                                                 [24;1H~                                                 [25;1H~                                                 [26;1H~                                                 [27;1H~                                                 [28;1H~                                                 [0m[29;1H[317m[4190m [0m[1m[317m[4190mN…[0m[317m[4190m [0m[3190m[4238m>[0m[3238m[4234m>[0m[385m[4234m output.session          [0m[3234m[4234m<[0m[3238m[4234m<[0m[3190m[4238m<[0m[317m[4190m 100% [0m[1m[317m[4190m:   0[0m[317m[4190m:  1 [1;5H[0m[30;1H[K[30;1H:q[30;1H[K[30;1Hlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ vi timing.log 
+[2;1H▽[6n[1;1H  [1;1H[m[m[0m[H[2J[30;1H"timing.log" 47L, 538C[1;1H[33m  1 [0m0.684492 53
+[33m  2 [0m0.069668 1
+[33m  3 [0m1.387765 1
+[33m  4 [0m0.115278 1
+[33m  5 [0m0.126758 1
+[33m  6 [0m0.047401 2
+[33m  7 [0m0.317925 100
+[33m  8 [0m0.134894 69
+[33m  9 [0m0.000014 51
+[33m 10 [0m0.010748 2
+[33m 11 [0m0.000006 2
+[33m 12 [0m4.393780 51
+[33m 13 [0m0.000375 2
+[33m 14 [0m0.000017 2
+[33m 15 [0m0.371203 51
+[33m 16 [0m0.000366 2
+[33m 17 [0m0.000015 1
+[33m 18 [0m14.916255 1
+[33m 19 [0m0.078773 1
+[33m 20 [0m0.048546 1
+[33m 21 [0m0.235635 1
+[33m 22 [0m0.067442 13
+[33m 23 [0m0.219411 2
+[33m 24 [0m0.532600 27
+[33m 25 [0m0.129228 40
+[33m 26 [0m0.000406 7
+[33m 27 [0m0.000004 1837
+[33m 28 [0m0.026691 22
+[317m[4190m [0m[1m[317m[4190mN…[0m[317m[4190m [0m[3190m[4238m>[0m[3238m[4234m>[0m[385m[4234m timing.log              [0m[3234m[4234m<[0m[3238m[4234m<[0m[3190m[4238m<[0m[317m[4190m   2% [0m[1m[317m[4190m:   1[0m[317m[4190m:  1 [1;5H[0m[1;2H[33m20[0m[3C048546 1[1;15H[K[2;2H[33m21[0m[3C235635[3;2H[33m22[0m[1C0.067442 13[4;2H[33m23[0m[3C219411 2[5;2H[33m24[0m[3C532600 27[6;2H[33m25[0m[3C129228 40[7;2H[33m26[0m[3C000406 7[7;15H[K[8;2H[33m27[0m[3C000004 1837[9;2H[33m28[0m[4C26691 22[10;2H[33m29[0m[3C977536 1[11;2H[33m30[0m[3C293877 1[12;2H[33m31[0m[1C0.218305 17[13;2H[33m32[0m[5C2372 53[14;2H[33m33[0m[5C1600 1[15;2H[33m34[0m[4C64303 1[15;15H[K[16;2H[33m35[0m[4C47569[17;2H[33m36[0m[3C268793 62[18;2H[33m37[0m[1C0.002821 5[19;2H[33m38[0m[4C00674 2[20;2H[33m39[0m[4C00012[21;2H[33m40[0m[3C533239[22;2H[33m41[0m[4C93029[22;15H[K[23;2H[33m42[0m[3C081807 1[24;2H[33m43[0m[3C168612 1[24;15H[K[25;2H[33m44[0m[3C095897 9[25;15H[K[26;2H[33m45[0m[3C185363 2[27;2H[33m46[0m[3C460640 27[27;16H[K[28;2H[33m47[0m[3C123643 36[29;36H[317m[4190m100[0m[5C[1m[317m[4190m47[28;5H[0m[10;1H[19M[1;1H[19L[1;1H[33m  1 [0m0.684492 53
+[33m  2 [0m0.069668 1
+[33m  3 [0m1.387765 1
+[33m  4 [0m0.115278 1
+[33m  5 [0m0.126758 1
+[33m  6 [0m0.047401 2
+[33m  7 [0m0.317925 100
+[33m  8 [0m0.134894 69
+[33m  9 [0m0.000014 51
+[33m 10 [0m0.010748 2
+[33m 11 [0m0.000006 2
+[33m 12 [0m4.393780 51
+[33m 13 [0m0.000375 2
+[33m 14 [0m0.000017 2
+[33m 15 [0m0.371203 51
+[33m 16 [0m0.000366 2
+[33m 17 [0m0.000015 1
+[33m 18 [0m14.916255 1
+[33m 19 [0m0.078773 1[30;1H[K[29;36H[317m[4190m  2[0m[5C[1m[317m[4190m 1[1;5H[0m[19M[10;1H[19L[10;1H[33m 29 [0m0.977536 1
+[33m 30 [0m0.293877 1
+[33m 31 [0m0.218305 17
+[33m 32 [0m0.002372 53
+[33m 33 [0m0.001600 1
+[33m 34 [0m0.364303 1
+[33m 35 [0m0.047569 2
+[33m 36 [0m0.268793 62
+[33m 37 [0m0.002821 51
+[33m 38 [0m0.000674 2
+[33m 39 [0m0.000012 1
+[33m 40 [0m0.533239 1
+[33m 41 [0m0.093029 1
+[33m 42 [0m0.081807 1
+[33m 43 [0m0.168612 1
+[33m 44 [0m0.095897 9
+[33m 45 [0m0.185363 2
+[33m 46 [0m0.460640 27
+[33m 47 [0m0.123643 36[29;36H[317m[4190m100[0m[5C[1m[317m[4190m47[28;5H[0m[10;1H[19M[1;1H[19L[1;1H[33m  1 [0m0.684492 53
+[33m  2 [0m0.069668 1
+[33m  3 [0m1.387765 1
+[33m  4 [0m0.115278 1
+[33m  5 [0m0.126758 1
+[33m  6 [0m0.047401 2
+[33m  7 [0m0.317925 100
+[33m  8 [0m0.134894 69
+[33m  9 [0m0.000014 51
+[33m 10 [0m0.010748 2
+[33m 11 [0m0.000006 2
+[33m 12 [0m4.393780 51
+[33m 13 [0m0.000375 2
+[33m 14 [0m0.000017 2
+[33m 15 [0m0.371203 51
+[33m 16 [0m0.000366 2
+[33m 17 [0m0.000015 1
+[33m 18 [0m14.916255 1
+[33m 19 [0m0.078773 1[29;36H[317m[4190m  2[0m[5C[1m[317m[4190m 1[1;5H[0m[19M[10;1H[19L[10;1H[33m 29 [0m0.977536 1
+[33m 30 [0m0.293877 1
+[33m 31 [0m0.218305 17
+[33m 32 [0m0.002372 53
+[33m 33 [0m0.001600 1
+[33m 34 [0m0.364303 1
+[33m 35 [0m0.047569 2
+[33m 36 [0m0.268793 62
+[33m 37 [0m0.002821 51
+[33m 38 [0m0.000674 2
+[33m 39 [0m0.000012 1
+[33m 40 [0m0.533239 1
+[33m 41 [0m0.093029 1
+[33m 42 [0m0.081807 1
+[33m 43 [0m0.168612 1
+[33m 44 [0m0.095897 9
+[33m 45 [0m0.185363 2
+[33m 46 [0m0.460640 27
+[33m 47 [0m0.123643 36[29;36H[317m[4190m100[0m[5C[1m[317m[4190m47[28;5H[0m[10;1H[19M[1;1H[19L[1;1H[33m  1 [0m0.684492 53
+[33m  2 [0m0.069668 1
+[33m  3 [0m1.387765 1
+[33m  4 [0m0.115278 1
+[33m  5 [0m0.126758 1
+[33m  6 [0m0.047401 2
+[33m  7 [0m0.317925 100
+[33m  8 [0m0.134894 69
+[33m  9 [0m0.000014 51
+[33m 10 [0m0.010748 2
+[33m 11 [0m0.000006 2
+[33m 12 [0m4.393780 51
+[33m 13 [0m0.000375 2
+[33m 14 [0m0.000017 2
+[33m 15 [0m0.371203 51
+[33m 16 [0m0.000366 2
+[33m 17 [0m0.000015 1
+[33m 18 [0m14.916255 1
+[33m 19 [0m0.078773 1[29;36H[317m[4190m  2[0m[5C[1m[317m[4190m 1[1;5H[30;1H[0m:q[30;1H[K[30;1Hlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear[D[K[C[2Pls[D[Dvi timing.log [Cls[K[D[Dvi timing.log [Cls[K[D[Dvi output.session [Chaha[K[Csu maoyuan.li[Cls[K[D[Dcd code/[Cls[K[D[Dcd ~[C[2Pls[D[Dcd code/[Cls[K[D[Dcd ~[C[2Pls[D[Dcd code/[Cls[K[D[Dsu maoyuan.li[Chaha[K[Cvi output.session [Cls[K[D[Dvi timing.log [Cls[K[D[Dclea[C[2Pls[D[Dvi timing.log [Cls[K[D[Dvi output.session [Chaha[K[Csu maoyuan.li[Cls[K[D[Dcd code/[Cls[K[D[Dcd脚本启动于 2017年02月16日 星期四 13时48分38秒
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ pwd
+/home/lmy/shell/linux_shell/2.2
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ exit
+exit
+
+脚本完成，于 2017年02月16日 星期四 13时48分52秒
+ ~[C[2Pls[D[Dcd code/[Cls[K[D[Dclear[C[3Pls[D[Dpwd[C[1Pls[D[Dpwd[C[1Pls[D[Dcd dotfiles/[Cls[K[D[Dcp ~/.vimrc ~/lmy_dotfile/vimrc[Cls[K[D[Dcp ~/.vimrc ~/lmy_dotfile/vimrc[Cls[K[D[Dcd ../[C[4Pls[D[Dcp ~/.vimrc ~/lmy_dotfile/vimrc[Cls[K[D[Dcd dotfiles/[Cls[K[D[Dpwd[C[1Pls[D[Dpwd[C[1Pls[D[Dclear[C[3Pls[D[Dcd code/[Cls[K[D[Dcd ~[C[2Pls[D[Dcd code/[Cls[K[D[Dsu maoyuan.li[Chaha[K[Cvi output.session [Cls[K[D[Dvi timing.log [Cls[K[D[Dclea[C[2Pls[D[Dvi timing.log [Cls[K[D[Dvi output.session [Chaha[K[Csu maoyuan.li[Cls[K[D[K[D[Kls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls[D[K[D[K[A[27P(reverse-i-search)`': 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[Ds': ls[D[C[8@failed reverse-i-search)`sc[C[C[C[C[D[D[D[D[1@r[C[C[C[C[D[D[D[D[1@i[C[C[C[C[D[D[D[D[1@p[C[C[C[C[D[D[D[D[1@t[C[C[C[C[D[D[D[D[1@ [C[C[C[C[D[D[D[D[1@-[C[C[C[C[D[D[D[D[1@t[C[C[C[C[D[D[D[D[1@ [C[C[C[C[D[D[D[D[1@2[C[C[C[C[D[D[D[D[1@>[C[C[C[C[D[D[D[D[1@ [C[C[C[C[D[D[D[D[1@t[C[C[C[C[D[D[D[D[1@i[C[C[C[C[D[D[D[D[1@m[C[C[C[Clmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls^C
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ script
+script        scriptreplay  
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ script -t 2> timing.log -a output.session 
+脚本已启动，文件为 output.session
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ pwd
+/home/lmy/shell/linux_shell/2.2
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ clear
+[H[Jlmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ ls
+[0m[01;32mcat.sh[0m  output.session  text.txt  timing.log
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ exit
+exit
+脚本完成，文件为  output.session
+lmy@lmy-HP-280-Pro-G1-MT:~/shell/linux_shell/2.2$
+ exit
+exit
+
+脚本完成，于 2017年02月16日 星期四 13时49分02秒

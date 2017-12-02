@@ -1,0 +1,233 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  33904  2760 ?        Ss    2月27   0:11 /sbin/init
+root         2  0.0  0.0      0     0 ?        S     2月27   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S     2月27   0:06 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<    2月27   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S     2月27  23:01 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S     2月27   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S     2月27  18:34 [rcuos/0]
+root        10  0.0  0.0      0     0 ?        S     2月27   0:00 [rcuob/0]
+root        11  0.0  0.0      0     0 ?        S     2月27   0:38 [migration/0]
+root        12  0.0  0.0      0     0 ?        S     2月27   0:43 [watchdog/0]
+root        13  0.0  0.0      0     0 ?        S     2月27   0:43 [watchdog/1]
+root        14  0.0  0.0      0     0 ?        S     2月27   0:38 [migration/1]
+root        15  0.0  0.0      0     0 ?        S     2月27   0:01 [ksoftirqd/1]
+root        17  0.0  0.0      0     0 ?        S<    2月27   0:00 [kworker/1:0H]
+root        18  0.0  0.0      0     0 ?        S     2月27   6:56 [rcuos/1]
+root        19  0.0  0.0      0     0 ?        S     2月27   0:00 [rcuob/1]
+root        20  0.0  0.0      0     0 ?        S     2月27   0:43 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S     2月27   0:52 [migration/2]
+root        22  0.0  0.0      0     0 ?        S     2月27   0:17 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<    2月27   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S     2月27  10:28 [rcuos/2]
+root        26  0.0  0.0      0     0 ?        S     2月27   0:00 [rcuob/2]
+root        27  0.0  0.0      0     0 ?        S     2月27   0:35 [watchdog/3]
+root        28  0.0  0.0      0     0 ?        S     2月27   0:52 [migration/3]
+root        29  0.0  0.0      0     0 ?        S     2月27   0:00 [ksoftirqd/3]
+root        31  0.0  0.0      0     0 ?        S<    2月27   0:00 [kworker/3:0H]
+root        32  0.0  0.0      0     0 ?        S     2月27   7:06 [rcuos/3]
+root        33  0.0  0.0      0     0 ?        S     2月27   0:00 [rcuob/3]
+root        34  0.0  0.0      0     0 ?        S<    2月27   0:00 [khelper]
+root        35  0.0  0.0      0     0 ?        S     2月27   0:00 [kdevtmpfs]
+root        36  0.0  0.0      0     0 ?        S<    2月27   0:00 [netns]
+root        37  0.0  0.0      0     0 ?        S<    2月27   0:00 [perf]
+root        38  0.0  0.0      0     0 ?        S     2月27   0:05 [khungtaskd]
+root        39  0.0  0.0      0     0 ?        S<    2月27   0:00 [writeback]
+root        40  0.0  0.0      0     0 ?        SN    2月27   0:00 [ksmd]
+root        41  0.0  0.0      0     0 ?        SN    2月27   2:57 [khugepaged]
+root        42  0.0  0.0      0     0 ?        S<    2月27   0:00 [crypto]
+root        43  0.0  0.0      0     0 ?        S<    2月27   0:00 [kintegrityd]
+root        44  0.0  0.0      0     0 ?        S<    2月27   0:00 [bioset]
+root        45  0.0  0.0      0     0 ?        S<    2月27   0:00 [kblockd]
+root        46  0.0  0.0      0     0 ?        S<    2月27   0:00 [ata_sff]
+root        47  0.0  0.0      0     0 ?        S<    2月27   0:00 [md]
+root        48  0.0  0.0      0     0 ?        S<    2月27   0:00 [devfreq_wq]
+root        53  0.0  0.0      0     0 ?        S     2月27   6:45 [kswapd0]
+root        54  0.0  0.0      0     0 ?        S<    2月27   0:00 [vmstat]
+root        55  0.0  0.0      0     0 ?        S     2月27   0:00 [fsnotify_mark]
+root        56  0.0  0.0      0     0 ?        S     2月27   0:00 [ecryptfs-kthrea]
+root        67  0.0  0.0      0     0 ?        S<    2月27   0:00 [kthrotld]
+root        68  0.0  0.0      0     0 ?        S<    2月27   0:00 [acpi_thermal_pm]
+root        70  0.0  0.0      0     0 ?        S     2月27   0:00 [scsi_eh_0]
+root        71  0.0  0.0      0     0 ?        S<    2月27   0:00 [scsi_tmf_0]
+root        72  0.0  0.0      0     0 ?        S     2月27   0:00 [scsi_eh_1]
+root        73  0.0  0.0      0     0 ?        S<    2月27   0:00 [scsi_tmf_1]
+root        78  0.0  0.0      0     0 ?        S<    2月27   0:00 [ipv6_addrconf]
+root        98  0.0  0.0      0     0 ?        S<    2月27   0:00 [deferwq]
+root        99  0.0  0.0      0     0 ?        S<    2月27   0:00 [charger_manager]
+root       104  0.0  0.0      0     0 ?        S<    2月27   0:01 [kworker/0:1H]
+root       157  0.0  0.0      0     0 ?        S<    2月27   0:00 [kpsmoused]
+root       169  0.0  0.0      0     0 ?        S     2月27   2:58 [jbd2/sda2-8]
+root       170  0.0  0.0      0     0 ?        S<    2月27   0:00 [ext4-rsv-conver]
+root       202  0.0  0.0      0     0 ?        S<    2月27   0:21 [kworker/2:1H]
+root       293  0.0  0.0  19480   632 ?        S     2月27   0:03 upstart-udev-bridge --daemon
+root       301  0.0  0.0  52208   824 ?        Ss    2月27   0:01 /lib/systemd/systemd-udevd --daemon
+root       344  0.0  0.0      0     0 ?        S     2月27   0:00 [irq/30-mei_me]
+root       463  0.0  0.0  15264   592 ?        S     2月27   0:01 upstart-socket-bridge --daemon
+root       569  0.0  0.0      0     0 ?        S<    2月27   0:02 [kworker/1:1H]
+root       624  0.0  0.0 316720  1960 ?        Ss    2月27   0:16 smbd -F
+root       705  0.0  0.0  15280   556 ?        S     2月27   0:01 upstart-file-bridge --daemon
+syslog     709  0.0  0.3 256616 13948 ?        Ssl   2月27   1:40 rsyslogd
+message+   748  0.0  0.0  40780  2488 ?        Ss    2月27   0:21 dbus-daemon --system --fork
+root       831  0.0  0.0 334448   328 ?        Ssl   2月27   0:00 /usr/sbin/ModemManager
+root       832  0.0  0.0  19300    48 ?        Ss    2月27   0:00 /usr/sbin/bluetoothd
+root       856  0.0  0.0      0     0 ?        S<    2月27   0:00 [krfcommd]
+avahi      897  0.0  0.0  33128  2020 ?        S     2月27   2:43 avahi-daemon: running [lmy-HP-280-Pro-G1-MT.local]
+avahi      902  0.0  0.0  32224     4 ?        S     2月27   0:00 avahi-daemon: chroot helper
+root       909  0.0  0.0  43560  1636 ?        Ss    2月27   0:11 /lib/systemd/systemd-logind
+root       936  0.0  0.0  20016   236 tty4     Ss+   2月27   0:00 /sbin/getty -8 38400 tty4
+root       940  0.0  0.0  20016   228 tty5     Ss+   2月27   0:00 /sbin/getty -8 38400 tty5
+root       941  0.0  0.0 125608   952 ?        Ssl   2月27  12:04 thermald --no-daemon --dbus-enable
+root       949  0.0  0.0  20016   248 tty2     Ss+   2月27   0:00 /sbin/getty -8 38400 tty2
+root       950  0.0  0.0  20016   240 tty3     Ss+   2月27   0:00 /sbin/getty -8 38400 tty3
+maoyuan+   953  0.0  0.2 657176  8416 ?        Sl    5月05   3:33 gnome-terminal
+root       954  0.0  0.0  20016   248 tty6     Ss+   2月27   0:00 /sbin/getty -8 38400 tty6
+maoyuan+   963  0.0  0.0  14824   940 ?        S     5月05   0:00 gnome-pty-helper
+maoyuan+   964  0.0  0.0  29176  1656 pts/0    Ss+   5月05   0:01 bash
+root       996  0.0  0.0  61384   680 ?        Ss    2月27   0:00 /usr/sbin/sshd -D
+root      1023  0.0  0.0  75360   508 ?        Ss    2月27   0:00 /usr/sbin/cups-browsed
+root      1026  0.0  0.0   4372   248 ?        Ss    2月27   3:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+kernoops  1065  0.0  0.0  37152   488 ?        Ss    2月27   4:44 /usr/sbin/kerneloops
+root      1069  0.0  0.0  19196   792 ?        Ss    2月27  10:56 /usr/sbin/irqbalance
+root      1071  0.0  0.0  23656   580 ?        Ss    2月27   0:55 cron
+root      1156  0.0  0.0 345040  2400 ?        Ssl   2月27   5:54 NetworkManager
+root      1162  0.0  0.1 288320  4148 ?        Sl    2月27   0:08 /usr/lib/policykit-1/polkitd --no-debug
+mysql     1168  0.1  0.2 615932 11560 ?        Ssl   2月27 125:38 /usr/sbin/mysqld
+whoopsie  1208  0.0  0.0 435048  2184 ?        Ssl   2月27   0:06 whoopsie
+root      1212  0.0  0.0 382512  1296 ?        S     2月27   0:09 smbd -F
+root      1223  0.0  0.0      0     0 ?        S<    2月27   1:20 [kworker/3:1H]
+root      1225  0.0  0.0 316720  1964 ?        S     2月27   0:28 smbd -F
+root      1250  0.0  0.0 389424  2628 ?        Ss    2月27   5:06 /usr/sbin/apache2 -k start
+nobody    1260  0.0  0.0  35224   108 ?        S     2月27   0:08 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1434  0.0  0.0 235760  1376 ?        Ss    2月27  10:46 nmbd -D
+root      1460  0.0  0.0  20016   228 tty1     Ss+   2月27   0:00 /sbin/getty -8 38400 tty1
+root      1476  0.0  0.0 278016  1796 ?        SLsl  2月27   0:01 lightdm
+root      1487  0.1  0.9 690072 39100 tty7     Ssl+  2月27 133:20 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1490  0.0  0.0 287600  1832 ?        Sl    2月27   0:54 /usr/lib/accountsservice/accounts-daemon
+root      1543  0.0  0.0      0     0 ?        S     2月27   0:00 [kauditd]
+root      1756  0.0  0.0 170504  1304 ?        Sl    2月27   0:00 lightdm --session-child 12 19
+root      1797  0.0  0.0 304892  1532 ?        Sl    2月27   0:01 /usr/lib/upower/upowerd
+rtkit     1826  0.0  0.0 168916   192 ?        SNl   2月27   1:40 /usr/lib/rtkit/rtkit-daemon
+maoyuan+  2028  0.0  0.0 518344  1036 ?        Sl    2月27   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+maoyuan+  2030  0.0  0.0  40328  2164 ?        Ss    2月27   0:11 init --user
+maoyuan+  2116  0.0  0.0  40636  2264 ?        Ss    2月27   2:50 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-PZpsex65Cu
+maoyuan+  2127  0.0  0.0  22304   380 ?        Ss    2月27   0:02 upstart-event-bridge
+maoyuan+  2138  0.0  0.0  78584    20 ?        Ss    2月27   0:02 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+maoyuan+  2149  0.0  0.0  22312   244 ?        S     2月27   0:49 upstart-dbus-bridge --daemon --session --user --bus-name session
+maoyuan+  2151  0.0  0.0  30784  1104 ?        S     2月27   0:00 upstart-file-bridge --daemon --user
+maoyuan+  2153  0.0  0.0  22312   428 ?        S     2月27   0:03 upstart-dbus-bridge --daemon --system --user --bus-name system
+maoyuan+  2155  0.0  1.1 398968 46244 ?        Ssl   2月27  22:01 /usr/bin/ibus-daemon --daemonize --xim
+maoyuan+  2178  0.0  0.1 813776  6392 ?        Ssl   2月27   2:22 /usr/lib/unity-settings-daemon/unity-settings-daemon
+maoyuan+  2182  0.0  3.0 930984 120168 ?       Ssl   2月27   3:05 /usr/lib/x86_64-linux-gnu/hud/hud-service
+maoyuan+  2184  0.0  0.0 337580   152 ?        Ssl   2月27   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+maoyuan+  2186  0.0  0.0 657796  2936 ?        Ssl   2月27   0:02 gnome-session --session=ubuntu
+maoyuan+  2191  0.0  0.0  39372   792 ?        S     2月27   0:01 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+maoyuan+  2192  0.0  0.7 533556 29196 ?        Ssl   2月27   8:02 /usr/lib/unity/unity-panel-service
+maoyuan+  2195  0.0  0.0 124916  1016 ?        Sl    2月27   0:03 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+maoyuan+  2203  0.0  0.0 196776   800 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfsd
+maoyuan+  2207  0.0  0.0 345668     0 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1001/gvfs -f -o big_writes
+maoyuan+  2218  0.0  0.0 280880  1104 ?        Sl    2月27   0:00 /usr/lib/ibus/ibus-dconf
+maoyuan+  2219  0.0  0.0 508332  3872 ?        Sl    2月27   0:58 /usr/lib/ibus/ibus-ui-gtk3
+maoyuan+  2221  0.0  0.0 386864   440 ?        Sl    2月27   0:05 /usr/lib/ibus/ibus-x11 --kill-daemon
+maoyuan+  2237  0.0  0.1 213700  7824 ?        Sl    2月27   3:56 /usr/lib/ibus/ibus-engine-simple
+maoyuan+  2241  0.0  0.0 561244  2360 ?        Sl    2月27   1:41 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+maoyuan+  2255  0.0  0.0 653036  2036 ?        Sl    2月27   0:02 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+maoyuan+  2257  0.0  0.0 335080     0 ?        Ssl   2月27   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+maoyuan+  2258  0.0  0.0 263632   348 ?        Ssl   2月27   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+maoyuan+  2260  0.0  0.0 278452   892 ?        Ssl   2月27   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+maoyuan+  2266  0.0  0.0 1162668 2392 ?        Ssl   2月27   2:36 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+maoyuan+  2271  0.0  0.0 553140  2460 ?        Ssl   2月27   2:22 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+maoyuan+  2274  0.0  0.0 446740  2016 ?        Ssl   2月27   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+maoyuan+  2279  0.0  0.0 828188  2560 ?        Ssl   2月27   0:08 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+maoyuan+  2281  0.0  0.0 286792   532 ?        Ssl   2月27   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+maoyuan+  2330  0.0  0.0 1095452 1520 ?        Sl    2月27   0:02 /usr/lib/evolution/evolution-source-registry
+maoyuan+  2334  0.0  0.0 373760  2080 ?        S<l   2月27   0:18 /usr/bin/pulseaudio --start --log-target=syslog
+colord    2336  0.0  0.0 301528   940 ?        Sl    2月27   0:00 /usr/lib/colord/colord
+maoyuan+  2354  1.0 25.1 2646148 1000332 ?     Rl    2月27 1346:10 compiz
+maoyuan+  2358  0.0  0.0 178292  1168 ?        Sl    2月27   0:00 /usr/lib/dconf/dconf-service
+maoyuan+  2364  0.0  0.0 418420  1832 ?        Sl    2月27   0:01 /usr/lib/x86_64-linux-gnu/notify-osd
+maoyuan+  2382  0.0  0.0 1074208 1652 ?        Sl    2月27   0:03 /usr/lib/evolution/evolution-calendar-factory
+maoyuan+  2386  0.0  0.0 644076  1988 ?        Sl    2月27   0:01 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+maoyuan+  2388  0.0  0.0 635252  1780 ?        Sl    2月27   2:15 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+maoyuan+  2390  0.0  0.0 593616  2444 ?        Sl    2月27   0:01 nm-applet
+maoyuan+  2392  0.0  1.3 1745408 53248 ?       Sl    2月27  20:36 nautilus -n
+maoyuan+  2408  0.0  0.0 718124  3596 ?        Sl    2月27   0:26 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+maoyuan+  2412  0.0  0.0  58256   920 ?        S     2月27   0:09 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      2418  0.0  0.0 789384  3412 ?        Sl    2月27  21:42 /usr/lib/udisks2/udisksd --no-debug
+maoyuan+  2427  0.0  0.0 285972   108 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+maoyuan+  2432  0.0  0.0 200284   528 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+maoyuan+  2436  0.0  0.0 212448   668 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+maoyuan+  2495  0.0  0.0 433152  1064 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.8 /org/gtk/gvfs/exec_spaw/0
+maoyuan+  2507  0.0  0.0 270384     0 ?        Sl    2月27   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.8 /org/gtk/gvfs/exec_spaw/1
+maoyuan+  2570  0.0  0.0 455060  1160 ?        Sl    2月27   0:00 telepathy-indicator
+maoyuan+  2577  0.0  0.0 322880  1640 ?        Sl    2月27   0:03 /usr/lib/telepathy/mission-control-5
+maoyuan+  2595  0.0  0.0 349004  1220 ?        Sl    2月27   0:02 /usr/bin/zeitgeist-daemon
+maoyuan+  2601  0.0  0.0 253976   984 ?        Sl    2月27   2:22 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+maoyuan+  2603  0.0  0.0 549432     0 ?        Sl    2月27   2:25 zeitgeist-datahub
+maoyuan+  2618  0.0  0.0  11416     0 ?        S     2月27   0:00 /bin/cat
+maoyuan+  2652  0.0  0.0 430884  2280 ?        Sl    2月27   0:07 update-notifier
+maoyuan+  2665  0.0  0.0 377872  1364 ?        Sl    2月27   0:03 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root      3680  0.0  0.0      0     0 ?        S    13:45   0:00 [kworker/0:2]
+root      6325  0.0  0.0      0     0 ?        S    13:41   0:00 [kworker/1:0]
+maoyuan+  8427  0.2  0.4 3331364 18052 ?       SLl   5月04  69:30 /usr/lib/chromium-browser/chromium-browser --enable-pinch
+maoyuan+  8440  0.0  0.0 671036   108 ?        S     5月04   0:00 /usr/lib/chromium-browser/chromium-browser --type=zygote
+maoyuan+  8442  0.0  0.0 671036   468 ?        S     5月04   0:00 /usr/lib/chromium-browser/chromium-browser --type=zygote
+maoyuan+  8472  0.0  0.1 1194136 5220 ?        Sl    5月04   2:29 /usr/lib/chromium-browser/chromium-browser --type=gpu-process --channel=8427.0.2098152424 --mojo-application-channel-token=F45AC799316172F7756AA9495C32286A --enable-features=DocumentWriteEvaluator<DisallowFetchForDocWrittenScriptsInMainFrame,IncidentReportingDisableUpload<SafeBrowsingIncidentReportingService,IncidentReportingModuleLoadAnalysis<SafeBrowsingIncidentReportingServiceFeatures,IncidentReportingSuspiciousModuleReporting<SafeBrowsingIncidentReportingServiceFeatures,MainFrameBeforeActivation<MainFrameBeforeActivation,NetworkTimeServiceQuerying<NetworkTimeQueries,PreconnectMore<PreconnectMore,UsePasswordSeparatedSigninFlow<PasswordSeparatedSigninFlow,WebRTC-EnableWebRtcEcdsa<WebRTC-EnableWebRtcEcdsa,WebRTC-H264WithOpenH264FFmpeg<WebRTC-H264WithOpenH264FFmpeg,token-binding<TokenBinding,use-new-media-cache<use-new-media-cache --disable-features=UsePredictorDNSQueue<UsePredictorDNSQueue --force-fieldtrials=AsyncDNS/AsyncDNSA/AutofillClassifier/Enabled/AutofillFieldMetadata/Enabled/AutofillProfileOrderByFrecency/EnabledLimitTo3/CaptivePortalInterstitial/Enabled/ChromeDashboard/Enabled/ChromotingQUIC/Enabled/DisallowFetchForDocWrittenScriptsInMainFrame/DocumentWriteEvaluatorGroup/EnableGoogleCachedCopyTextExperiment/Button/EnableMediaRouter/Enabled/EnableMediaRouterWithCastExtension/Enabled/EnableSessionCrashedBubbleUI/Enabled/ExtensionAct ndedContextMenu/branded/InstanceID/Enabled/LocalNTPSuggestionsService/Enabled/MainFrameBeforeActivation/Enabled/MaterialDesignDownloads/Enabled/MojoChannel/Enabled/NetworkTimeQueries/NetworkTimeQueriesEnabled/OfferUploadCreditCards/Enabled/OutOfProcessPac/Enabled/PageRevisitInstrumentation/Enabled/PasswordBranding/SmartLockBrandingSavePromptOnly/PasswordManagerSettingsMigration/Enable/PasswordSeparatedSigninFlow/Enabled/PreconnectMore/Enabled/*QUIC/Enabled/RefreshTokenDeviceId/Enabled/ReportCertificateErrors/ShowAndPossiblySend/ResourcePriorities/Launch50pct_11011_1_1_10/SSLCommonNameMismatchHandling/Enabled/*SafeBrowsingIncidentReportingService/Enabled/SafeBrowsingIncidentReportingServiceFeatures/WithSuspiciousModuleReporting/SafeBrowsingReportPhishingErrorLink/Enabled/SafeBrowsingUpdateFrequency/UpdateTime15m/SchedulerExpensiveTaskBlocking/Enabled/SdchPersistence/Enabled/SimpleCacheTrial/ExperimentYes/StrictSecureCookies/Enabled/SyncHttpContentCompression/Enabled/TabSyncByRecency/Enabled/*TokenBinding/TokenBinding/*UMA_CheckStates/NoChecks/UsePredictorDNSQueue/Disabled/V8CacheStrategiesForCacheStorage/none/VarationsServiceControl/Interval_30min/WebFontsIntervention/Enabled/WebRTC-EnableWebRtcEcdsa/Enabled/WebRTC-H264WithOpenH264FFmpeg/Enabled/WebRTC-LocalIPPermissionCheck/Enabled/WebRTC-PeerConnectionDTLS1.2/Enabled/use-new-media-cache/Enabled/ --window-depth=24 --x11-visual-id=32 --supports-dual-gpus=false --gpu-driver-bug-workarounds=4,5,19,47,55 --disable-gl-extensions=GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_timer_query GL_EXT_timer_query --gpu-vendor-id=0x8086 --gpu-device-id=0x041e --gpu-driver-vendor=Mesa --gpu-driver-version=11.0.2 --gpu-driver-date --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+maoyuan+  8504  0.0  0.0 777856   428 ?        S     5月04   0:00 /usr/lib/chromium-browser/chromium-browser --type=gpu-broker                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ndedContextMenu/branded/InstanceID/Enabled/LocalNTPSuggestionsService/Enabled/MainFrameBeforeActivation/Enabled/MaterialDesignDownloads/Enabled/MojoChannel/Enabled/NetworkTimeQueries/NetworkTimeQueriesEnabled/OfferUploadCreditCards/Enabled/OutOfProcessPac/Enabled/PageRevisitInstrumentation/Enabled/PasswordBranding/SmartLockBrandingSavePromptOnly/PasswordManagerSettingsMigration/Enable/PasswordSeparatedSigninFlow/Enabled/PreconnectMore/Enabled/*QUIC/Enabled/RefreshTokenDeviceId/Enabled/ReportCertificateErrors/ShowAndPossiblySend/ResourcePriorities/Launch50pct_11011_1_1_10/SSLCommonNameMismatchHandling/Enabled/*SafeBrowsingIncidentReportingService/Enabled/SafeBrowsingIncidentReportingServiceFeatures/WithSuspiciousModuleReporting/SafeBrowsingReportPhishingErrorLink/Enabled/SafeBrowsingUpdateFrequency/UpdateTime15m/SchedulerExpensiveTaskBlocking/Enabled/SdchPersistence/Enabled/SimpleCacheTrial/ExperimentYes/StrictSecureCookies/Enabled/SyncHttpContentCompression/Enabled/TabSyncByRecency/Enabled/*TokenBinding/TokenBinding/*UMA_CheckStates/NoChecks/UsePredictorDNSQueue/Disabled/V8CacheStrategiesForCacheStorage/none/VarationsServiceControl/Interval_30min/WebFontsIntervention/Enabled/WebRTC-EnableWebRtcEcdsa/Enabled/WebRTC-H264WithOpenH264FFmpeg/Enabled/WebRTC-LocalIPPermissionCheck/Enabled/WebRTC-PeerConnectionDTLS1.2/Enabled/use-new-media-cache/Enabled/ --window-depth=24 --x11-visual-id=32 --supports-dual-gpus=false --gpu-driver-bug-workarounds=4,5,19,47,55 --disable-gl-extensions=GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_timer_query GL_EXT_timer_query --gpu-vendor-id=0x8086 --gpu-device-id=0x041e --gpu-driver-vendor=Mesa --gpu-driver-version=11.0.2 --gpu-driver-date --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+maoyuan+  8543  0.0  0.1 1790596 7048 ?        Sl    5月04   1:44 /usr/lib/chromium-browser/chromium-browser --type=renderer --enable-pinch --enable-features=DocumentWriteEvaluator<DisallowFetchForDocWrittenScriptsInMainFrame,IncidentReportingDisableUpload<SafeBrowsingIncidentReportingService,IncidentReportingModuleLoadAnalysis<SafeBrowsingIncidentReportingServiceFeatures,IncidentReportingSuspiciousModuleReporting<SafeBrowsingIncidentReportingServiceFeatures,MainFrameBeforeActivation<MainFrameBeforeActivation,NetworkTimeServiceQuerying<NetworkTimeQueries,PreconnectMore<PreconnectMore,UsePasswordSeparatedSigninFlow<PasswordSeparatedSigninFlow,WebRTC-EnableWebRtcEcdsa<WebRTC-EnableWebRtcEcdsa,WebRTC-H264WithOpenH264FFmpeg<WebRTC-H264WithOpenH264FFmpeg,token-binding<TokenBinding,use-new-media-cache<use-new-media-cache --disable-features=UsePredictorDNSQueue<UsePredictorDNSQueue --force-fieldtrials=AsyncDNS/AsyncDNSA/AutofillClassifier/Enabled/AutofillFieldMetadata/Enabled/AutofillProfileOrderByFrecency/EnabledLimitTo3/CaptivePortalInterstitial/Enabled/ChromeDashboard/Enabled/ChromotingQUIC/Enabled/*DisallowFetchForDocWrittenScriptsInMainFrame/DocumentWriteEvaluatorGroup/EnableGoogleCachedCopyTextExperiment/Button/*EnableMediaRouter/Enabled/EnableMediaRouterWithCastExtension/Enabled/EnableSessionCrashedBubbleUI/Enabled/ExtensionActionRedesign/Enabled/GoogleBrandedContextMenu/branded/InstanceID/Enabled/*LocalNTPSuggestionsService/Enabled/*MainFrameBeforeActivation/Enabled/MaterialDesignDownloads/Enabled/MojoChannel/Enabled/NetworkTimeQueries/NetworkTimeQueriesEnabled/OfferUploadCreditCards/Enabled/OutOfProcessPac/Enabled/*PageRevisitInstrumentation/Enabled/PasswordBranding/SmartLockBrandingSavePromptOnly/*PasswordManagerSettingsMigration/Enable/PasswordSeparatedSigninFlow/Enabled/*PreconnectMore/Enabled/*QUIC/Enabled/RefreshTokenDeviceId/Enabled/ReportCertificateErrors/ShowAndPossiblySend/*ResourcePriorities/Launch50pct_11011_1_1_10/SSLCommonNameMismatchHandling/Enabled/*SafeBrowsingIncidentReportingService/Enabled/SafeBrowsingIncidentReportingServiceFeatures/WithSuspiciousModuleReporting/SafeBrowsingReportPhishingErrorLink/Enabled/SafeBrowsingUpdateFrequency/UpdateTime15m/*SchedulerExpensiveTaskBlocking/Enabled/SdchPersistence/Enabled/*SimpleCacheTrial/ExperimentYes/StrictSecureCookies/Enabled/SyncHttpContentCompression/Enabled/TabSyncByRecency/Enabled/*TokenBinding/TokenBinding/*UMA_CheckStates/NoChecks/*UsePredictorDNSQueue/Disabled/*V8CacheStrategiesForCacheStorage/none/VarationsServiceControl/Interval_30min/WebFontsInterven
+maoyuan+  8666  0.0  0.0 742668  2052 ?        Sl    5月04   0:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+maoyuan+  8681  0.0  0.0 663748  2648 ?        Sl    5月04   0:40 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+maoyuan+  8683  0.0  0.0 454760  1148 ?        Sl    5月04   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+maoyuan+  8687  0.0  0.0 347800     0 ?        Sl    5月04   0:32 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+maoyuan+  8718  0.0  0.0 390880   304 ?        Sl    5月04   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.8 /org/gtk/gvfs/exec_spaw/5
+root      9160  0.0  0.0      0     0 ?        S    13:16   0:01 [kworker/u8:0]
+root      9216  0.0  0.0      0     0 ?        S    13:22   0:00 [kworker/u8:2]
+maoyuan+  9713  0.0  0.0  11640  2312 pts/9    S+   13:35   0:00 make V=s
+maoyuan+  9714  0.0  0.0  11404  1952 pts/9    S+   13:35   0:00 tee -a /home/maoyuan.li/k3c/k3c_factory/iop/build/logs/build_K3CB1_20170523-133453.log
+maoyuan+  9922  0.0  0.0   4448   688 pts/9    S+   13:35   0:00 /bin/sh -c _limit=`ulimit -n`; [ "$_limit" = "unlimited" -o "$_limit" -ge 1024 ] || ulimit -n 1024; umask 022; make -w -r world 
+maoyuan+  9924  0.0  0.2  12236  9384 pts/9    S+   13:35   0:00 make -w -r world
+root      9985  0.0  0.0      0     0 ?        S    13:35   0:00 [kworker/0:0]
+root      9986  0.0  0.0      0     0 ?        S    13:35   0:00 [kworker/3:2]
+root      9987  0.0  0.0      0     0 ?        S    13:35   0:00 [kworker/1:2]
+root      9988  0.1  0.0      0     0 ?        S    13:35   0:00 [kworker/u8:3]
+maoyuan+ 10571  0.0  0.0 263620  2916 ?        Sl    5月15   0:02 /usr/lib//ibus/ibus-engine-sunpinyin --ibus
+root     10999  0.0  0.1  76860  3980 ?        Ss   10:18   0:00 /usr/sbin/cupsd -f
+lp       11002  0.0  0.0  63164  3560 ?        S    10:18   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+root     11227  0.0  0.1 109804  6092 ?        Ss   10:26   0:00 sshd: maoyuan.li [priv]
+maoyuan+ 11279  0.0  0.1 109936  4188 ?        S    10:26   0:03 sshd: maoyuan.li@pts/9,pts/25,pts/26
+maoyuan+ 11280  0.0  0.1  28408  6944 pts/9    Ss   10:26   0:00 -bash
+root     11303  0.0  0.0      0     0 ?        S    10:26   0:02 [kworker/2:0]
+root     11643  0.0  0.0      0     0 ?        S    03:17   0:03 [kworker/0:1]
+root     12436  0.0  0.1 331848  7776 ?        S     5月16   0:18 smbd -F
+maoyuan+ 13279  0.0  0.1  28472  7072 pts/25   Ss+  11:16   0:00 -bash
+maoyuan+ 13815  0.0  0.0   9560  2380 pts/9    S+   13:45   0:00 bash -c set -o pipefail; make -w -r -C package/feeds/open_applications/hostapd_2_3_wave_5_1_1 compile BUILD_VARIANT="" SILENT= 2>&1 | tee /home/maoyuan.li/k3c/k3c_factory/iop/logs/package/feeds/open_applications/hostapd_2_3_wave_5_1_1/compile.txt 
+maoyuan+ 13816  0.0  0.0   5436  2312 pts/9    S+   13:45   0:00 make -w -r -C package/feeds/open_applications/hostapd_2_3_wave_5_1_1 compile BUILD_VARIANT= SILENT=
+maoyuan+ 13817  0.0  0.0   4356   744 pts/9    S+   13:45   0:00 tee /home/maoyuan.li/k3c/k3c_factory/iop/logs/package/feeds/open_applications/hostapd_2_3_wave_5_1_1/compile.txt
+lmy      13827  0.0  0.0  22644  2296 pts/27   R+   13:45   0:00 ps aux
+root     14755  0.0  0.0      0     0 ?        S    08:40   0:02 [kworker/3:1]
+maoyuan+ 14873  0.0  0.1 481592  7016 ?        Ssl   5月15   0:31 /usr/lib/unity/unity-panel-service --lockscreen-mode
+root     15098  0.0  0.0      0     0 ?        S     5月22   0:14 [kworker/1:1]
+root     17019  0.0  0.0  10232   652 ?        S     3月30   0:29 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-eth0.pid -lf /var/lib/NetworkManager/dhclient-179e477f-830c-4780-9523-25ba7e3000a1-eth0.lease -cf /var/lib/NetworkManager/dhclient-eth0.conf eth0
+ntp      17172  0.0  0.0  33520  1252 ?        Ss    3月30   9:13 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 120:128
+maoyuan+ 17377  0.0  0.0 124580   188 ?        Sl    3月02   0:00 /usr/lib/gvfs/gvfsd-metadata
+root     17654  0.0  0.0      0     0 ?        S    13:39   0:00 [kworker/2:2]
+lightdm  18400  0.0  0.0  39800   276 ?        S     3月31   0:00 init --user --startup-event indicator-services-start
+lightdm  18436  0.0  0.0 355000   988 ?        S<l   3月31   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+lightdm  18555  0.0  0.0 263500   300 ?        Ssl   3月31   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+lightdm  18564  0.0  0.0 405504   312 ?        Ssl   3月31   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+root     18959  0.0  0.0      0     0 ?        S    13:44   0:00 [kworker/2:1]
+maoyuan+ 19139  0.0  0.0 361896  1324 ?        Sl    3月31   0:01 /usr/lib/gvfs/gvfsd-network --spawner :1.8 /org/gtk/gvfs/exec_spaw/2
+maoyuan+ 19145  0.0  0.0 652964   412 ?        Sl    3月31   0:01 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.8 /org/gtk/gvfs/exec_spaw/3
+maoyuan+ 19153  0.0  0.0 281456  1696 ?        Sl    3月31   0:02 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.8 /org/gtk/gvfs/exec_spaw/4
+maoyuan+ 21454  0.0  0.0   9560  2356 pts/9    S+   13:40   0:00 bash -c /home/maoyuan.li/k3c/k3c_factory/iop/scripts/timestamp.pl -n /home/maoyuan.li/k3c/k3c_factory/iop/staging_dir/target-mips_mips32_uClibc-0.9.33.2_grx350_1600_mr_eth_rt_711/stamp/.package_compile package /home/maoyuan.li/k3c/k3c_factory/iop/tmp/.build || make   package/compile
+maoyuan+ 21462  0.1  0.2  12244  9484 pts/9    S+   13:40   0:00 make package/compile
+root     23598  0.0  0.1 109804  6352 ?        Ss   13:43   0:00 sshd: lmy [priv]    
+maoyuan+ 24131  0.0  0.1  28112  6672 pts/26   Ss+  11:24   0:00 -bash
+lmy      24158  0.0  0.1 109804  4156 ?        S    13:43   0:00 sshd: lmy@pts/27    
+lmy      24159  0.1  0.1  28212  6628 pts/27   Ss   13:43   0:00 -bash
+root     25186  0.0  0.0      0     0 ?        S    13:41   0:00 [kworker/3:0]
+www-data 31296  0.0  0.0 389448  1244 ?        S     5月21   0:00 /usr/sbin/apache2 -k start
+www-data 31297  0.0  0.0 389448  1244 ?        S     5月21   0:00 /usr/sbin/apache2 -k start
+www-data 31298  0.0  0.0 389448  1248 ?        S     5月21   0:00 /usr/sbin/apache2 -k start
+www-data 31299  0.0  0.0 389448  1244 ?        S     5月21   0:00 /usr/sbin/apache2 -k start
+www-data 31300  0.0  0.0 389448  1244 ?        S     5月21   0:00 /usr/sbin/apache2 -k start

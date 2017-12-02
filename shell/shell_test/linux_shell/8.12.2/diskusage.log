@@ -1,0 +1,4 @@
+Date     IP address     Device    Capacity Used   Free   Percent Status
+06/01/17 172.17.200.152/dev/dm-1 99G      7.7G   86G    9%      SAFE
+06/01/17 172.17.200.152/dev/mapper/SOHO--OPWRT--vg-boot 966M     38M    862M   5%      SAFE
+06/01/17 172.17.200.152/dev/mapper/SOHO--OPWRT--vg-home 2.8T     825G   1.8T   32%     SAFE
