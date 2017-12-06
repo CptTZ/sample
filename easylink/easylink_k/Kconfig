@@ -1,0 +1,9 @@
+
+menu "Easylink netlink"
+config EASYLINK
+        tristate "easylink support"
+	help
+	easylink based on netlink
+
+endmenu
+
